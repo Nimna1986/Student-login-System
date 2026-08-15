@@ -1,0 +1,7 @@
+com\studentloginsystem\pos\main\StudentLoginSystem.class
+com\studentloginsystem\pos\view\LoginForm.class
+com\studentloginsystem\pos\view\SignUpForm.class
+com\studentloginsystem\model\Student.class
+com\studentloginsystem\pos\view\Dashboard.class
+com\studentloginsystem\pos\controller\StudentController.class
+com\studentloginsystem\pos\db\DBConnection.class
